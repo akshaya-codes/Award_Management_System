@@ -1,6 +1,6 @@
-# Award_Management_System
+# BeatBlitz Award Management System
 
-The **Award Management System** is a Python-based application designed to streamline the process of managing awards, nominations, and recipients. It provides an efficient way to handle award-related data and automate workflows.
+The **BeatBlitz Award Management System** is a Python-based application designed to streamline the process of managing awards, nominations, and recipients. It provides an efficient way to handle award-related data and automate workflows.
 
 ---
 
