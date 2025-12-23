@@ -1,1 +1,1 @@
-# Award_Management_System
+# Award Management System
