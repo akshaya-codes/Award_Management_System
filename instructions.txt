@@ -1,0 +1,4 @@
+General instructions: 
+1. The voter must vote for at least one category 
+2. During login, if the wrong password is entered more than three times, you will be removed from the programme 
+3. During signup, the password entered must be at least 8 characters
