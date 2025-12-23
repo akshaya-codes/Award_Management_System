@@ -49,8 +49,6 @@ The **BeatBlitz Award Management System** is a Python-based application designed
 
 ## Setup Instructions
 
-## Setup Instructions
-
 1. Clone the repository or download the project files.
 2. Navigate to the project directory.
 3. Install the required dependencies using the `requirements.txt` file:
